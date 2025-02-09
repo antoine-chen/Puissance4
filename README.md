@@ -1,4 +1,4 @@
-# Puissance 4 en C | 🔴🟡
+# Puissance 4 en C
 
 
 
