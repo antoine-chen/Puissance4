@@ -9,9 +9,13 @@ Ce projet est une implémentation du célèbre jeu Puissance 4 en langage C. Il 
 # 🎯 Fonctionnalités
 
 ✅ Interface en mode console.
+
 ✅ Affichage dynamique de la grille.
+
 ✅ Gestion des entrées utilisateur sécurisée.
+
 ✅ Détection automatique des victoires.
+
 ✅ Rejouabilité avec possibilité de recommencer une partie.
 
 # 🛠️ Technologies utilisées
