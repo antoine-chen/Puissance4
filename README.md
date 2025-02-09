@@ -1,9 +1,5 @@
 # Puissance 4 en C
 
-
-
-# 📌 Description
-
 Ce projet est une implémentation du célèbre jeu Puissance 4 en langage C. Il permet à deux joueurs de s'affronter sur une grille de 6 lignes par 7 colonnes en insérant tour à tour des jetons pour tenter d’aligner 4 pions consécutifs horizontalement, verticalement ou en diagonale.
 
 # 🎯 Fonctionnalités
